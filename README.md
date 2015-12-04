@@ -16,7 +16,7 @@ Sammeln von Materialien in den drei Feldern:
 
 * Business Cases - Was will die Industrie mittels des IoT/Industrie 4.0 erreichen?
 * Technologie - Welche offenene Technologien gibt es in diesem Bereich?
-* Lösungen - Was wurde bisher schon erfolgreich umgesetzt?
+* Lösungen - Was wurde bisher schon erfolgreich umgesetzt oder welche (nicht nur theoretischen) Lösungsentwürfe gibt es?
 
 Die Sammlung erfolgt über die [Issues](https://github.com/openbit-iot/iot-handbuch/issues) in diesem Repository. 
 
